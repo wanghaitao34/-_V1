@@ -1,0 +1,39 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 缩略图
+._*
+
+# 文件夹配置文件
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 依赖文件（如果将来添加）
+node_modules/
+bower_components/
+
+# 构建输出（如果将来添加）
+dist/
+build/
+
+# 日志文件
+*.log
+npm-debug.log*
+
+# 环境变量文件
+.env
+.env.local
